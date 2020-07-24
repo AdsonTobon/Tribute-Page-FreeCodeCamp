@@ -1,0 +1,82 @@
+main{
+    background-color:rgba(15, 66, 66, 0.692);
+    border-radius: 10px;
+    
+}
+
+#div-title{
+    
+    text-align: center;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-size: 55px;
+
+}
+
+
+#div-title p{
+    font-family: 'Special Elite', cursive;
+}
+
+
+#img-div{
+    
+    background-color: darkgray;
+    padding: 10px;
+    margin:50px;
+    
+    border-radius: 10px;
+    
+}
+#img-div #image{
+    display:block;
+    margin:auto;
+    width:100%;
+    max-width:400px;
+
+}
+
+#img-div p{
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+
+}
+
+
+
+#title2{
+    font-family: 'Amatic SC', cursive;
+    font-size:40px;
+}
+
+.info{
+    font-family: 'Special Elite', cursive;
+   
+}
+
+#tribute-info{
+    display: block;
+    text-align: justify;
+    padding: 20px 200px 20px 200px;
+    
+    
+}
+
+#tribute-info h2{
+    text-align:center ;
+}
+
+
+#div-tribute{
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#div-tribute #tribute-link{
+    color: white;
+}
+
